@@ -23,3 +23,5 @@ The project relies on the pre-trained `hand_landmarker.task` bundle (a compiled 
 1. Clone the repository:
    ```bash
    git clone [https://github.com/aytugotmar/i2i-Academy-ComputerVision-3.git](https://github.com/aytugotmar/i2i-Academy-ComputerVision-3.git)
+2. Place the required model weight inside the root folder: curl -O [https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task](https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task)
+3. Run the pipeline: python3 finger_counter.py
