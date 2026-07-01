@@ -1,4 +1,4 @@
-# i2i Academy - Computer Vision - Assignment 3
+# i2i Academy - Computer Vision
 
 This repository contains the real-time Finger Counter application developed using modern AI frameworks as part of the i2i Academy Training Program.
 
